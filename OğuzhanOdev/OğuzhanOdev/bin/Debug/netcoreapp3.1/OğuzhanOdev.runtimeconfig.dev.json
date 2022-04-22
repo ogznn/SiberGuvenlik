@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\metin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\metin\\.nuget\\packages"
+    ]
+  }
+}
